@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Какой язык программирования вы предпочитаете?",
+        "answers": ["JavaScript", "Python", "Java", "C++"],
+        "correctAnswer": "JavaScript"
+    },
+    {
+        "question": "Какой операционной системой вы пользуетесь?",
+        "answers": ["Windows", "MacOS", "Linux", "Другая"],
+        "correctAnswer": "Windows"
+    },
+    {
+        "question": "Какой фреймворк вы предпочитаете для разработки веб-приложений?",
+        "answers": ["React", "Angular", "Vue.js", "Другой"],
+        "correctAnswer": "React"
+    },
+    {
+        "question": "Какой язык программирования вы предпочитаете?",
+        "answers": ["JavaScript", "Python", "Java", "C++"],
+        "correctAnswer": "JavaScript"
+    },
+    {
+        "question": "Какой операционной системой вы пользуетесь?",
+        "answers": ["Windows", "MacOS", "Linux", "Другая"],
+        "correctAnswer": "Windows"
+    },
+    {
+        "question": "Какой фреймворк вы предпочитаете для разработки веб-приложений?",
+        "answers": ["React", "Angular", "Vue.js", "Другой"],
+        "correctAnswer": "React"
+    },
+    {
+        "question": "Какой фреймворк вы предпочитаете для разработки веб-приложений?",
+        "answers": ["React", "Angular", "Vue.js", "Другой"],
+        "correctAnswer": "React"
+    },
+    {
+        "question": "Какой язык программирования вы предпочитаете?",
+        "answers": ["JavaScript", "Python", "Java", "C++"],
+        "correctAnswer": "JavaScript"
+    },
+    {
+        "question": "Какой операционной системой вы пользуетесь?",
+        "answers": ["Windows", "MacOS", "Linux", "Другая"],
+        "correctAnswer": "Windows"
+    },
+    {
+        "question": "Какой фреймворк вы предпочитаете для разработки веб-приложений?",
+        "answers": ["React", "Angular", "Vue.js", "Другой"],
+        "correctAnswer": "React"
+    }
+]
